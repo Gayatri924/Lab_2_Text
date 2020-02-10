@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Lab 2 - Text</string>
+    <string-array
+        name="string_array">
+        <item>1/5 Pizza</item>
+        <item>2/5 Ice Cream</item>
+        <item>3/5 Burrito</item>
+        <item>4/5 Chips</item>
+        <item>5/5 Food!</item>
+    </string-array>
 </resources>
